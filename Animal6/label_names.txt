@@ -1,0 +1,8 @@
+_background_
+Car
+Lion
+Lion 2
+Lion 3
+Lion 4
+Tree
+Two lion
