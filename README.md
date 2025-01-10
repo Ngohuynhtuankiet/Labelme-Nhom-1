@@ -1,1 +1,0 @@
-# Labelme-Nhom-1
